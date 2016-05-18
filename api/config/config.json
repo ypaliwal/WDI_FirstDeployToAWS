@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "rares",
-    "password": "octo08",
+    "username": "postgres",
+    "password": "postgres",
     "database": "moviedb",
     "host": "127.0.0.1",
     "dialect": "postgres"
